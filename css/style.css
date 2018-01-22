@@ -1,0 +1,24 @@
+p {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 3px solid black;
+
+}
+
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+}
+
+div#border {
+    border-style: dotted;
+    width: 30%;
+    padding: 30px;
+
+}
